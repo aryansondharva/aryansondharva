@@ -120,3 +120,5 @@
 </div>
 
 ---
+<h2 align="left">🐍 GitHub Snake Animation</h2>
+<img src="https://raw.githubusercontent.com/aryansondharva/aryansondharva/output/snake.svg" alt="Snake animation" />
