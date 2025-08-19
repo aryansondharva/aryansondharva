@@ -1,3 +1,4 @@
+[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/aryansondharva/)
 <h1 align="center">Hey 👋, I'm ARYAN SONDHARVA</h1>
 
 <p align="center">🌍 MERN Developer from Navsari, Gujarat, India</p>
