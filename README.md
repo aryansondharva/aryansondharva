@@ -91,11 +91,11 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2>
-
+###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryansondharva&show_icons=true&theme=dracula&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aryansondharva&layout=compact&theme=dracula&langs_count=6" height="150" />
+  <h2>📊 GitHub Stats:</h2>
+ <img src="https://nirzak-streak-stats.vercel.app?user=aryansondharva&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <br/>
 </div>
 
 ---
