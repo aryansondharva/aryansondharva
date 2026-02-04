@@ -95,19 +95,12 @@
 <div align="center">
   
   <h2 align="center">🏆 GitHub Achievement Showcase</h2>
-  <div align="center">
-    <img
-    src="https://github-profile-trophy.vercel.app/?username=aryansondharva&theme=radical&margin-w=15&margin-h=15&column=4&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience""
-    alt="Trophies" />
-  </div>
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryansondharva&theme=react&border_radius=10" />
   <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=aryansondharva&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <br/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansondharva&layout=compact&theme=react&border_radius=10" />
+
 </div>
 
 ---
