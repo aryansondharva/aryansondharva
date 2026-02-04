@@ -93,11 +93,32 @@
 
 ###
 <div align="center">
-  <h2>📊 GitHub Stats:</h2>
- <img src="https://nirzak-streak-stats.vercel.app?user=aryansondharva&theme=dark&hide_border=true" alt="GitHub Streak" />
+  
+  <h2 align="center">🏆 GitHub Achievement Showcase</h2>
+  <div align="center">
+    <img
+    src="https://github-profile-trophy.vercel.app/?username=aryansondharva&theme=radical&margin-w=15&margin-h=15&column=4&no-frame=true&title=Stars,Commits,Followers,PullRequest,Issues,Repositories,MultiLanguage,Experience""
+    alt="Trophies" />
+  </div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryansondharva&theme=react&border_radius=10" />
+  <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=aryansondharva&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <br/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryansondharva&layout=compact&theme=react&border_radius=10" />
 </div>
 
+---
+
+## 🐍 GitHub Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ayushrai1235/ayushrai1235/output/github-snake.svg" />
+</picture>
 ---
 
 <h2 align="left">🌐 Connect with Me</h2>
