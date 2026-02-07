@@ -62,12 +62,9 @@
 <h2 align="left">Databases</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" height="50" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" width="50" />
-  <img src="https://cdn.simpleicons.org/supabase/3FCF8E" height="50" width="50" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="50" width="50" />
-  <img src="https://cdn.simpleicons.org/pgadmin/336791" height="50" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo" />
 </div>
 
 ---
@@ -129,4 +126,3 @@
 </div>
 
 ---
-
