@@ -98,6 +98,9 @@
 
 <div align="center">
   <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryansondharva&theme=react&border_radius=10" />
+
+---
+  
   <img height="180" src="https://github-readme-stats-salesp07.vercel.app/api?username=aryansondharva&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
   <br/>
 
