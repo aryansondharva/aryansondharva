@@ -15,14 +15,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-- ✨ Creating bugs since **July 2025**
-- 📚 Currently learning: **DSA**
-- 💡 Goal: To build intelligent and scalable fullstack apps with AI
-
----
-
 <h2 align="left">I Code With</h2>
 
 <div align="center">
