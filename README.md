@@ -1,17 +1,11 @@
 [![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/aryansondharva/)
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=1,2,4,5,40&height=250&section=header&text=Aryan%20Sondharva&fontSize=60&animation=twinkling&fontAlignY=38&desc=Full‑Stack%20,%20%20PERN+Stack%20Developer%20,&descAlignY=62&font=Fira%20Code&descFont=Roboto&textColor=FF4500&descColor=00FF7F&borderRadius=25"
-    width="100%"
-    alt="Header Banner"
-  />
- </div>
- <div align="center">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=25&duration=3000&pause=1000&color=gradient&customColorList=0,4,4,8,30&center=true&vCenter=true&multiline=true&width=900&height=100&lines=BTech+Computer+Engineering+Student+%F0%9F%8E%93;Co-Founder+of+Tech+Assassian+%E2%80%A2+Full-Stack+Developer"
-      alt="Typing SVG"
-    />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+ARYAN+SONDHARVA!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+PERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
 </div>
+
+ <!-- Simple view counter -->
+   <img  align="right" src="https://komarev.com/ghpvc/?username=aryansondharva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</h1>
 
 ---
 
