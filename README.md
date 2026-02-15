@@ -1,12 +1,7 @@
 [![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/aryansondharva/)
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+ARYAN+SONDHARVA!😎
-    &fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+PERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hey,+I'm+ARYAN+SONDHARVA!👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Frontend+Developer+%7C+PERN+Stack+Learner+%7C+Tech+Event+Explorer&descAlignY=55&descAlign=50"/>
 </div>
-
- <!-- Simple view counter -->
-   <img  align="right" src="https://komarev.com/ghpvc/?username=aryansondharva&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</h1>
 
 ---
 
