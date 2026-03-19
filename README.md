@@ -27,6 +27,12 @@
   
   <img height="180" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aryansondharva&theme=react&border_radius=10" />
 
+---
+
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryansondharva&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
+</p>
+
 </div>
 
 ---
