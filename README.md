@@ -6,7 +6,7 @@
 ---
 -  Student of life :)
 -  I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 📄 View my [Resume](https://drive.google.com/file/d/1YPQNBEpndsVzITrAmeqdpI_787tbKCup/view?pli=1) for work experience.
+- 📄 View my [Resume](https://drive.google.com/file/d/1KsvUBkGzZyDsrDRlCGAJB2kv0m-NEEEK/view?usp=drive_link) for work experience.
   </br>
 - 📌 For more details about my experience and projects, visit my [Portfolio](https://aryan-sondharva.vercel.app/)
 <!--End Intro-->
