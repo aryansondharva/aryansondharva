@@ -17,8 +17,8 @@
 ## Focus
 
 - Products: edtech, civic tech, AI agents, and developer tooling
-- OSS: scientific Python, infrastructure, and data tooling
-- Stack: Python, TypeScript, Go, React, Next.js, FastAPI, PostgreSQL, Docker, and Kubernetes
+- App: GitHub, scikit-learn, Git, Postgres
+- Stack: Python, TypeScript, JavaScript, Go, React, Next.js, FastAPI, PostgreSQL, Docker, and Kubernetes
 
 ## Selected Projects
 
