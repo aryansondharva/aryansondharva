@@ -28,7 +28,15 @@
 | [AuraXpress](https://auraxpress.vercel.app)   | A full-stack e-commerce platform built with React, Node.js, Express, and PostgreSQL. |
 
 
+##  Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanssondharva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sondharva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansondharva25@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/aryansondharva)
+
+
 ## Contact
 
 - Email: aryansondharva402@gmail.com
 - Site: [aryansondharva.vercel.app](https://aryan-sondharva.vercel.app/)
+
+--- 
+
+ 
