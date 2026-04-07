@@ -22,28 +22,13 @@
 
 | Project | What it is |
 |---|---|
-| [Tech Assassin](https://tech-assassin.vercel.app/) | Tech Assassin is the ultimate community hub for elite developers, hackers, and digital operatives.  |
-| [Drop](https://github.com/aryansondharva/college-management) | A unified, real-time ecosystem connecting students, teachers, and administrators. |
-| [AURA ](https://github.com/aryansondharva/Aura) | AI-powered spaced repetition platform that helps students retain information through intelligent quiz generation and personalized learning schedules. |
-| [AuraXpress](https://auraxpress.vercel.app) | A full-stack e-commerce platform built with React, Node.js, Express, and PostgreSQL. |
+| [Tech Assassin](https://tech-assassin.vercel.app/)   | Tech Assassin is the ultimate community hub for elite developers, hackers, and digital operatives.  |
+| [Drop](https://github.com/aryansondharva/college-management)   | A unified, real-time ecosystem connecting students, teachers, and administrators. |
+| [AURA ](https://github.com/aryansondharva/Aura)   | AI-powered spaced repetition platform that helps students retain information through intelligent quiz generation and personalized learning schedules. |
+| [AuraXpress](https://auraxpress.vercel.app)   | A full-stack e-commerce platform built with React, Node.js, Express, and PostgreSQL. |
 
-## Open Source
-
-Selected merged contributions:
-
-- [daytonaio/daytona#4107](https://github.com/daytonaio/daytona/pull/4107) - fixed hanging stdin behavior in sync daemon session commands
-- [docling-project/docling#3134](https://github.com/docling-project/docling/pull/3134) - fixed image backend resource leaks
-- [pyinat/pyinaturalist#686](https://github.com/pyinat/pyinaturalist/pull/686) and [#684](https://github.com/pyinat/pyinaturalist/pull/684) - added type-safe constants and annotation label support
-- [mlco2/codecarbon#1080](https://github.com/mlco2/codecarbon/pull/1080) - fixed noisy auth/config failure paths
-- [openfoodfacts/openfoodfacts-dart#1203](https://github.com/openfoodfacts/openfoodfacts-dart/pull/1203) - added automated pub.dev package-score CI
-- [OpenHands/OpenHands#13471](https://github.com/OpenHands/OpenHands/pull/13471) - fixed clearing `llm_base_url` in settings
-- [kubernetes/kubernetes#137283](https://github.com/kubernetes/kubernetes/pull/137283) - clarified `envFrom` key constraints in API docs
-
-More merged OSS work: [merged PRs](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3ALarytheLord+-user%3ALarytheLord)
-
-Current review cycles: [open PRs](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3ALarytheLord)
 
 ## Contact
 
-- Email: llawlietbagsum@gmail.com
-- Site: [abikhn.vercel.app](https://abikhn.vercel.app/)
+- Email: aryansondharva402@gmail.com
+- Site: [aryansondharva.vercel.app](https://aryan-sondharva.vercel.app/)
