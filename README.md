@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/aryansondharva/)
+[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View&color=00000000&labelColor=00000000&logoColor=white)](https://hits.sh/github.com/aryansondharva/)
 
 # ARYA
 
