@@ -29,7 +29,10 @@
 
 
 ##  Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aryanssondharva) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sondharva) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryansondharva25@gmail.com) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=X&logoColor=white)](https://x.com/aryansondharva)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?logo=Instagram&logoColor=white&style=flat)](https://instagram.com/aryanssondharva)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/aryan-sondharva)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat)](mailto:aryansondharva25@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?logo=X&logoColor=white&style=flat)](https://x.com/aryansondharva)
 
 
 ## Contact
