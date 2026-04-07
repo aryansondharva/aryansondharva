@@ -8,7 +8,7 @@
 - Software developer building public products civic tech, and developer tooling.
 
 
-[Portfolio](https://aryan-sondharva.vercel.app/) | [Tech Assassin](https://tech-assassin.vercel.app/) | | [Open PRs](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3Aaryansondharva)
+[Portfolio](https://aryan-sondharva.vercel.app/) | [Tech Assassin](https://tech-assassin.vercel.app/) | [Open PRs](https://github.com/pulls?q=is%3Apr+is%3Aopen+author%3Aaryansondharva)
 
 ---
 
