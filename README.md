@@ -1,3 +1,5 @@
+[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View)](https://hits.sh/github.com/aryansondharva/)
+
 # ARYA
 
 -  Student of life :)
