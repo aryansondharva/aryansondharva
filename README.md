@@ -22,8 +22,8 @@
 
 | Project | What it is |
 |---|---|
-| [The Adventurers Guild](https://github.com/LarytheLord/Adventurers-Guild) | Gamified CS platform and developer marketplace with 500+ users, built around quests, progression, and real project work. |
-| [Open Permit](https://github.com/LarytheLord/Automated-Factory-Farm-Objection-Generator) | Civic intelligence platform for permit monitoring and AI-assisted objection workflows. |
+| [Tech Assassin](https://tech-assassin.vercel.app/) | Tech Assassin is the ultimate community hub for elite developers, hackers, and digital operatives.  |
+| [Drop](https://github.com/aryansondharva/college-management) | A unified, real-time ecosystem connecting students, teachers, and administrators. |
 | [Project Chimera](https://github.com/LarytheLord/Project-Chimera) | Modular cognitive architecture for AI agents with memory, metacognition, and tool use. |
 | [TrustlessID](https://github.com/LarytheLord/trustless-id) | Decentralized identity verification MVP with AI-assisted document analysis and privacy-preserving credential flows. |
 
