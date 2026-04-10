@@ -39,7 +39,7 @@
 
 ## Contact
 
-- Email: aryansondharva402@gmail.com
+- Email: aryansondharva25@gmail.com
 - Site: [aryansondharva.vercel.app](https://aryan-sondharva.vercel.app/)
 
 --- 
