@@ -26,7 +26,7 @@
 |---|---|
 | [Tech Assassin](https://tech-assassin.vercel.app/)   | Tech Assassin is the ultimate community hub for elite developers, hackers, and digital operatives.  |
 | [Drop](https://github.com/aryansondharva/college-management)   | A unified, real-time ecosystem connecting students, teachers, and administrators. |
-| [AURA ](https://github.com/aryansondharva/Aura)   | AI-powered spaced repetition platform that helps students retain information through intelligent quiz generation and personalized learning schedules. |
+| [AURA ](https://github.com/aryansondharva/Aura)   | An AI-driven learning companion designed to transform study materials into interactive and resumable learning experiences. |
 | [AuraXpress](https://auraxpress.vercel.app)   | A full-stack e-commerce platform built with React, Node.js, Express, and PostgreSQL. |
 
 
