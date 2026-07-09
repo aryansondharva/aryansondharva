@@ -4,7 +4,7 @@
 
 -  Student of life :)
 -  I’m currently learning many things, I believe that everyday is a learning opportunity.
-- 📄 View my [Resume](https://drive.google.com/file/d/1KsvUBkGzZyDsrDRlCGAJB2kv0m-NEEEK/view?usp=drive_link) for work experience.
+- 📄 View my [Resume](https://drive.google.com/file/d/1Mi0USS_U0PJZEA5UcYa0SADP5gk0Wwm0/view?usp=sharing) for work experience.
   </br>
 - For more details about my experience and projects, visit my [Portfolio](https://aryan-sondharva.vercel.app/)
 - Software developer building public products civic tech, and developer tooling.
