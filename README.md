@@ -1,4 +1,4 @@
-[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View&color=00000000&labelColor=00000000&logoColor=ffffff)](https://hits.sh/github.com/aryansondharva/)
+<!--[![Hits](https://hits.sh/github.com/aryansondharva.svg?style=for-the-badge&label=Total%20View&color=00000000&labelColor=00000000&logoColor=ffffff)](https://hits.sh/github.com/aryansondharva/)*-->
 
 # ARYA
 
@@ -40,7 +40,7 @@
 
 ## Contact
 
-- Email: aryansondharva25@gmail.com
+- Email: aryansondharva23@gmail.com
 - Site: [aryansondharva.vercel.app](https://aryan-sondharva.vercel.app/)
 
 --- 
